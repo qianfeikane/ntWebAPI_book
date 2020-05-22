@@ -1,5 +1,4 @@
 # Summary
-* [编者序](README.md)
 * [序](default.md)
     * [获取access_token](oauth2/access_token.md)
         * [获取Token](oauth2/queTokenAsync.md)
